@@ -1,0 +1,55 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "anas",
+            "email":"anas@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "ahmad",
+            "email":"ahmad@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "elias",
+            "email":"elias@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "firas",
+            "email":"firas@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "saif",
+            "email":"saif@gmail.com"
+        },
+        {
+            "id": 6,
+            "name": "osama",
+            "email":"osama@gmail.com"
+        },
+        {
+            "id": 7,
+            "name": "zaid",
+            "email":"zaid@gmail.com"
+        },
+        {
+            "id": 8,
+            "name": "yhia",
+            "email":"yhia@gmail.com"
+        },
+        {
+            "id": 9,
+            "name": "abod",
+            "email":"abod@gmail.com"
+        },
+        {
+            "id": 10,
+            "name": "noor",
+            "email":"noor@gmail.com"
+        }
+       
+    ]
+}
